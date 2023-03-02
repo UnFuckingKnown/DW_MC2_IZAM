@@ -27,7 +27,7 @@ func main() {
 
 func MakeProfile(name string) Profile {
 	profile := Profile{
-		Name:   name,
+		Name:   name,git
 		Health: 100,
 		Power:  200,
 		Exp:    90,
